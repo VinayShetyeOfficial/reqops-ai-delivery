@@ -7,6 +7,8 @@
 
 Live Site URL: [Preview](https://677c389e4c89e548816cbdd6--astonishing-madeleine-5e9a31.netlify.app/)
 
+Actual Site URL: [Link](https://reqops.com/)
+
 ## Overview
 
 Reqops AI Delivery is an AI-driven communication framework designed to streamline software delivery processes with features like AI-assisted requirement management, efficient AI-driven communication, and scope creep management. This web page is developed using **React**, **Framer Motion**, and **TailwindCSS** to deliver a visually stunning and responsive user experience.
