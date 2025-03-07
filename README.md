@@ -1,4 +1,4 @@
-# 🤖 Reqops AI Delivery [[Live Preview](https://677c389e4c89e548816cbdd6--astonishing-madeleine-5e9a31.netlify.app/)]
+# 🤖 Reqops AI Delivery [[Live Preview](https://reqops-ai-delivery-clone-live.netlify.app/)]
 
 An AI-powered communication framework revolutionizing software delivery processes through intelligent requirement management and streamlined team collaboration.
 
